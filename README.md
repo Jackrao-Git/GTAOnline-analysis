@@ -1,4 +1,4 @@
-# GTA-analysis
+# GTAOnline-analysis
 
 The GTAOnline Analysis Project is a collaborative initiative between the NYU Data Science Club and Rockstar Games. Spanning over two days, the project involved assembling teams of 3-4 individuals to conduct an analysis. The dataset comprised gameplay data from 800,000 players, encompassing metrics such as playtime, total spending, time spent driving specific vehicles, and the frequency of mission participation. Although the dataset contained gaps and imperfections, we utilized Python for data cleaning and subsequent model development.
 
